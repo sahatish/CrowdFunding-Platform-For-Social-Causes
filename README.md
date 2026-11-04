@@ -89,4 +89,8 @@ The primary objective of this platform is to leverage technology to make fundrai
 
 ## 📄 License
 
-This project is developed for educational and software development purposes.
+This project is developed for educational and software development purposes
+
+## GitHub Achievement Practice
+
+Learning GitHub Pull Requests and collaboration.
